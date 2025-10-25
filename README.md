@@ -13,7 +13,8 @@ Skills:
 - Languages: Python | C | Java (basics) | PHP | 
 - Data & ML: SQL | Data Science fundamentals | 
 - Tools: Git | GitHub | VS Code |
-
+  
+🌱 Featured Project: Chloris
 A collaborative project for Chloris:
 -A web app showcasing team contributions, interactive features, and beautiful UI.
 -Role: Frontend Developer – handled **UI/UX and aesthetics**, making the interface visually appealing and user-friendly.  
